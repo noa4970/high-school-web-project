@@ -1,0 +1,35 @@
+# Mac system files
+.DS_Store
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Database files
+*.mdf
+*.ldf
+
+# Logs
+*.log
+
+# VS temporary files
+*.vsp
+*.pdb
+
+# NuGet packages
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET temp folders
+App_Data/
+App_Browsers/
+App_Code/
+App_GlobalResources/
+App_LocalResources/
+App_Themes/
