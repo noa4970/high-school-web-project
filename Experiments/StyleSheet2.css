@@ -1,0 +1,159 @@
+﻿body {
+    direction: rtl;
+    background-color: white;
+}
+
+.center {
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#send {
+    margin-right: 600px;
+    font-size: 15pt;
+}
+
+#logIn {
+    font-size: 45pt;
+    font-family: Arial;
+}
+
+.info {
+    font-size: 20pt;
+    font-family: 'Agency FB';
+}
+
+.FS {
+    text-align: center;
+    padding-inline: 30%;
+    padding-top: 20%;
+    width: 40%;
+    height: 60%;
+}
+
+.terms {
+    list-style-type: none;
+    font-size: 20px;
+    text-indent: 10%;
+    width: 90%;
+    text-align: justify;
+}
+
+.Hterms {
+    font-size: 25px;
+}
+
+
+.red {
+    color: darkred;
+    font-size: larger;
+}
+
+.blue {
+    color: darkblue;
+}
+
+.lc {
+    border-top: 6px solid darkcyan;
+    border-bottom: 0px solid blue;
+    background-color: whitesmoke;
+}
+
+    .lc img {
+        width: 8%;
+        margin-right: 46%;
+        margin-left: 46%;
+    }
+
+.menuBar {
+    background-color: gainsboro;
+    padding: 1px;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 6%;
+    border-top: 5px solid blue;
+    border-bottom: 5px solid blue;
+}
+
+.menuBar p{
+    width:60%;
+}
+
+.menu {
+    display: inline;
+    flex: 1;
+    text-align: center;
+    margin: 10px;
+    height: fit-content;
+}
+
+    .menu a {
+        color: darkcyan;
+        text-decoration: none;
+    }
+
+.OutLine {
+    flex: 0.2;
+    color: white;
+    margin: 3px;
+}
+
+.currentMenu {
+    font-weight: bold;
+    text-decoration:underline;
+    display: inline;
+    flex: 1;
+    text-align: center;
+    margin: 10px;
+    height: fit-content;
+}
+
+    .currentMenu a {
+        color: darkcyan;
+        text-decoration: none;
+    }
+
+.menuClub {
+    font-family: Segoe UI Semibold;
+    font-size: 20px;
+    color: darkcyan;
+    font-weight: 900;
+    background-color: white;
+    border: 3px solid lightsteelblue;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 7px;
+    float: right;
+}
+
+    .menuClub:hover {
+        background-color: lightsteelblue;
+        color: white;
+    }
+
+.menuAA:hover {
+    color: lightsteelblue;
+}
+
+
+videoCSS {
+}
+
+.video1 {
+    object-fit: contain;
+}
+
+.entrance {
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}

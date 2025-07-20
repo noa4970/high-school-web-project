@@ -1,0 +1,413 @@
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\finalProject.dll.config
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\finalProject.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\finalProject.pdb
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\csc.exe
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\csc.exe.config
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\csc.rsp
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\csi.exe
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\csi.exe.config
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\csi.rsp
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.AppContext.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Console.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Net.Http.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\vbc.exe
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\vbc.exe.config
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\vbc.rsp
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\obj\Debug\finalProject.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\obj\Debug\finalProject.csproj.CopyComplete
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\obj\Debug\finalProject.dll
+C:\Users\משתמש\Desktop\תכנות\html\finalProject\finalProject\obj\Debug\finalProject.pdb
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\finalProject.dll.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\finalProject.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\finalProject.pdb
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\csc.exe
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\csc.exe.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\csc.rsp
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\csi.exe
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\csi.exe.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\csi.rsp
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.AppContext.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Console.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Net.Http.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\vbc.exe
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\vbc.exe.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\vbc.rsp
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\obj\Debug\finalProject.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\obj\Debug\finalProject.csproj.CopyComplete
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\obj\Debug\finalProject.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\html\פרויקט גמר\שלי\finalProject\finalProject\obj\Debug\finalProject.pdb
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\finalProject.dll.config
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\finalProject.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\finalProject.pdb
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\csc.exe
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\csc.exe.config
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\csc.rsp
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\csi.exe
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\csi.exe.config
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\csi.rsp
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.AppContext.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Collections.Immutable.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Console.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Globalization.Calendars.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.IO.Compression.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.IO.FileSystem.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Net.Http.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Net.Sockets.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Reflection.Metadata.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.ValueTuple.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Xml.XPath.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\vbc.exe
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\vbc.exe.config
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\vbc.rsp
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\VBCSCompiler.exe
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\roslyn\VBCSCompiler.exe.config
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\obj\Debug\finalProject.csprojAssemblyReference.cache
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\obj\Debug\finalProject.csproj.CopyComplete
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\obj\Debug\finalProject.dll
+Y:\מגמות תשפב\תכנות ב\נועה פלס\finalProject\finalProject\obj\Debug\finalProject.pdb
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\finalProject.dll.config
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\finalProject.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\finalProject.pdb
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\csc.exe
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\csc.exe.config
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\csc.rsp
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\csi.exe
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\csi.exe.config
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\csi.rsp
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.AppContext.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Console.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Net.Http.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\vbc.exe
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\vbc.exe.config
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\vbc.rsp
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\משתמש\Desktop\finalProject\finalProject\obj\Debug\finalProject.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\finalProject\finalProject\obj\Debug\finalProject.csproj.CopyComplete
+C:\Users\משתמש\Desktop\finalProject\finalProject\obj\Debug\finalProject.dll
+C:\Users\משתמש\Desktop\finalProject\finalProject\obj\Debug\finalProject.pdb
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\finalProject.dll.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\finalProject.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\finalProject.pdb
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\csc.exe
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\csc.exe.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\csc.rsp
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\csi.exe
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\csi.exe.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\csi.rsp
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.AppContext.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Console.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Net.Http.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\vbc.exe
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\vbc.exe.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\vbc.rsp
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\obj\Debug\finalProject.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\obj\Debug\finalProject.csproj.CopyComplete
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\obj\Debug\finalProject.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\הפרויקט\finalProject\finalProject\obj\Debug\finalProject.pdb
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\finalProject.dll.config
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\finalProject.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\finalProject.pdb
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\csc.exe
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\csc.exe.config
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\csc.rsp
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\csi.exe
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\csi.exe.config
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\csi.rsp
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.AppContext.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Console.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Net.Http.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\vbc.exe
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\vbc.exe.config
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\vbc.rsp
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\obj\Debug\finalProject.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\obj\Debug\finalProject.csproj.CopyComplete
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\obj\Debug\finalProject.dll
+C:\Users\משתמש\Desktop\הפרויקט\finalProject\finalProject\obj\Debug\finalProject.pdb
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\finalProject.dll.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\finalProject.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\finalProject.pdb
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\csc.exe
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\csc.exe.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\csc.rsp
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\csi.exe
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\csi.exe.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\csi.rsp
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.AppContext.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Console.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Net.Http.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\vbc.exe
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\vbc.exe.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\vbc.rsp
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\obj\Debug\finalProject.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\obj\Debug\finalProject.csproj.CopyComplete
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\obj\Debug\finalProject.dll
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקטים\פרויקט תכנות 2022\finalProject\finalProject\obj\Debug\finalProject.pdb
