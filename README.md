@@ -26,8 +26,6 @@ It features:
   <img src="screenshots/AboutPage.png" alt="About Page" width="600"/>
 </p>
 
-> (You can place your screenshots in a `screenshots/` folder and rename them accordingly)
-
 ## 🗃 Tech Stack
 
 - ASP.NET Web Forms (C#)
