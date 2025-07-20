@@ -29,7 +29,7 @@ public class Helper
         
 		//string connString = @"";
         
-		string connString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\משתמש\Desktop\הפרויקט\finalProject\masad2.mdf;Integrated Security=True;Connect Timeout=30";
+		string connString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:Y:\מגמות תשפב\תכנות ב\עטי פרידמן\פרויקט גמר מסודר\פרויקט מהתחלה\פרויקט מהתחלה\users.mdf;Integrated Security=True;Connect Timeout=30";
         /**/
         SqlConnection conn = new SqlConnection(connString);
             return conn;
