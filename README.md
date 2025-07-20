@@ -21,10 +21,12 @@ It features:
 <p align="center">
   <img src="screenshots/HomePage.png" alt="Home Page" width="600"/>
 </p>
+<p align="center"><i>Home page – displays the main branding image, salon logo, and top navigation bar</i></p>
 
 <p align="center">
   <img src="screenshots/AboutPage.png" alt="About Page" width="600"/>
 </p>
+<p align="center"><i>About page – describes the salon's philosophy and approach using styled Hebrew text</i></p>
 
 ## 🗃 Tech Stack
 
