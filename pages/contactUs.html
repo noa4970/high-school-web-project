@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>פאות שבי פלס/צור קשר</title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+</head>
+<body onload="startTime()">
+    <div class="nav">
+        <div class="topIMG">
+            <div id="txt" class="clock"></div>
+            <script>
+                function startTime() {
+                    const today = new Date();
+                    let h = today.getHours();
+                    let m = today.getMinutes();
+                    let s = today.getSeconds();
+                    h = checkTime(h);
+                    m = checkTime(m);
+                    s = checkTime(s);
+                    document.getElementById('txt').innerHTML = h + ":" + m + ":" + s;
+                    setTimeout(startTime, 1000);
+                }
+
+                function checkTime(i) {
+                    if (i < 10) { i = "0" + i };
+                    return i;
+                }
+            </script>
+            <img src="../images/לוגו שקוף.png" />
+        </div>
+        <div class="menuBar">
+            <div>
+                <p class="menu">
+                    <a href="homepage.html" class="menuAA">דף הבית</a>
+                </p>
+                <p class="Outline">|</p>
+                <p class="menu">
+                    <a href="about.html" class="menuAA">אודות</a>
+                </p>
+                <p class="Outline">|</p>
+                <p class="menu">
+                    <a href="Photos.html" class="menuAA">תמונות</a>
+                </p>
+                <p class="Outline">|</p>
+                <p class="menu">
+                    <a href="priceList.html" class="menuAA">מחירון</a>
+                </p>
+                <p class="Outline">|</p>
+                <p class="menu">
+                    <a href="contactUs.html" class="menuAAA">צור קשר</a>
+                </p>
+                <p class="Outline">|</p>
+                <p class="menu">
+                    <a href="clubEntrance.aspx" class="menuAA">המועדון שלנו</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="box1">
+        <img src="../images/שוקולד.jpg" />
+        <div class="box">
+            <form id="form1" runat="server">
+                <h2 class="cuH">צרי קשר</h2>
+                <div class="cuD">
+                    <label>נושא הפנייה:</label>
+                    <input type='text' name='userName' placeholder='' />
+                </div>
+                <div class="cuD">
+                    <label>שם מלא:</label>
+                    <input type='text' name='password' placeholder='' />
+                </div>
+                <div class="cuD">
+                    <label>מס' טלפון:</label>
+                    <input type='tel' name='birthDate' placeholder='' />
+                </div>
+                <div class="cuD">
+                    <label>כתובת מייל:</label>
+                    <input type='email' name='mail' placeholder='' />
+                </div>
+                <div class="cuD">
+                    <label>תוכן הפנייה:</label>
+                    <br />
+                    <textarea rows="7" cols="70" name="textarea1" placeholder=''></textarea>
+                </div>
+                    <button name="send" class="submitBotton2" id="send" value="שלח" onclick="javascript:alert('תודה על פנייתך! ניצור איתך קשר בהקדם')">שלח</button>
+                    <script>
+                        var input = document.getElementById("myInput");
+                        input.addEventListener("keypress", function (event) {
+                            if (event.key === "Enter") {
+                                event.preventDefault();
+                                document.getElementById(send).click();
+                            }
+                        });
+                    </script>
+            </form>
+        </div>
+    </div>
+    <button onclick="discovertextarea()" id="TA" class="sb">נתקלת בבעיה באתר?? </button>
+    <textarea id="ta" style="visibility: hidden;" rows="7" cols="70" name="textarea1" placeholder='כתבי לנו מה הבעיה ונשתדל לטפל בכך בהקדם'></textarea>
+    <script>
+        function discovertextarea() {
+            let textA = document.getElementById('ta');
+            let button1 = document.getElementById('TA');
+            textA.style.visibility = 'visible';
+            button1.style.visibility = 'hidden';
+        }
+    </script>
+    <br />
+    <div class="bottomLine">
+        <img src="../images/לוגו שקוף.png" />
+        <h5>שבי פלס // רחוב נחמיה 18, ב"ב // 03-6192546</h5>
+        <br />
+        <div class="copywrite">
+            <h6> All rights reserved to Noa Peles &copy;</h6>
+        </div>
+    </div>
+</body>
+</html>

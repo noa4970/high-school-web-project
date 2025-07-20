@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>פאות שבי פלס/מחירון</title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+</head>
+<body onload="startTime()">
+
+    <div class="nav">
+        <div class="topIMG">
+            <div id="txt" class="clock"></div>
+            <script>
+                function startTime() {
+                    const today = new Date();
+                    let h = today.getHours();
+                    let m = today.getMinutes();
+                    let s = today.getSeconds();
+                    h = checkTime(h);
+                    m = checkTime(m);
+                    s = checkTime(s);
+                    document.getElementById('txt').innerHTML = h + ":" + m + ":" + s;
+                    setTimeout(startTime, 1000);
+                }
+
+                function checkTime(i) {
+                    if (i < 10) { i = "0" + i };
+                    return i;
+                }
+            </script>
+            <img src="../images/לוגו שקוף.png" />
+        </div>
+        <div class="menuBar">
+            <div>
+                <p class="menu">
+                    <a href="homepage.html" class="menuAA">דף הבית</a>
+                </p>
+                <p class="Outline">|</p>
+                <p class="menu">
+                    <a href="about.html" class="menuAA">אודות</a>
+                </p>
+                <p class="Outline">|</p>
+                <p class="menu">
+                    <a href="Photos.html" class="menuAA">תמונות</a>
+                </p>
+                <p class="Outline">|</p>
+                <p class="menu">
+                    <a href="priceList.html" class="menuAAA">מחירון</a>
+                </p>
+                <p class="Outline">|</p>
+                <p class="menu">
+                    <a href="contactUs.html" class="menuAA">צור קשר</a>
+                </p>
+                <p class="Outline">|</p>
+                <p class="menu">
+                    <a href="clubEntrance.aspx" class="menuAA">המועדון שלנו</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="price1">
+        <div class="tpl1">
+            <p>מחירון פאות</p>
+        </div>
+        <table class="priceTBL">
+            <tr><th style="width: 50px;"></th><th>מחיר</th><th>אורך</th></tr>
+            <tr><td style="width: 50px;">A.</td><td><span class="dcColor">10,500</span></td><td><span class="dcColor">5-10 ס"מ</span></td></tr>
+            <tr><td style="width: 50px;">B.</td><td><span class="dcColor">11,000</span></td><td><span class="dcColor">11-15 ס"מ</span></td></tr>
+            <tr><td style="width: 50px;">C.</td><td><span class="dcColor">11,500</span></td><td><span class="dcColor">16-20 ס"מ</span></td></tr>
+            <tr><td style="width: 50px;">D.</td><td><span class="dcColor">12,500</span></td><td><span class="dcColor">21-25 ס"מ</span></td></tr>
+            <tr><td style="width: 50px;">E.</td><td><span class="dcColor">13,500</span></td><td><span class="dcColor">26-30 ס"מ</span></td></tr>
+            <tr><td style="width: 50px;">F.</td><td><span class="dcColor">14,500</span></td><td><span class="dcColor">31-35 ס"מ</span></td></tr>
+        </table>
+        <div class="tpl2">
+            <p>מחיר מיוחד לפאות קצרות:<br /><span class="dcColor">8,200 - 6,200 ש"ח</span></p>
+        </div>
+        <div class="remarks">
+            <p>*תוספת לייס: <span class="dcColor">1,800 ש"ח</span></p>
+            <p>*תוספת טופ לייס: <span class="dcColor">2,800 ש"ח</span></p>
+            <p>*תוספת בלונד: <span class="dcColor">2,000 - 1,000 ש"ח</span></p>
+        </div>
+    </div>
+    <div class="bottomLine">
+        <img src="../images/לוגו שקוף.png" />
+        <h5>שבי פלס // רחוב נחמיה 18, ב"ב // 03-6192546</h5>
+        <br />
+        <div class="copywrite">
+            <h6> All rights reserved to Noa Peles &copy;</h6>
+        </div>
+    </div>
+</body>
+</html>
